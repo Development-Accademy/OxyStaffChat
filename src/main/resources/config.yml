@@ -1,0 +1,17 @@
+#    ╔═══╦═╗╔═╦╗──╔╦═══╦═══╗
+#    ║╔═╗╠╗╚╝╔╣╚╗╔╝║╔═╗║╔═╗║
+#    ║║─║║╚╗╔╝╚╗╚╝╔╣╚══╣║─╚╝
+#    ║║─║║╔╝╚╗─╚╗╔╝╚══╗║║─╔╗
+#    ║╚═╝╠╝╔╗╚╗─║║─║╚═╝║╚═╝║
+#    ╚═══╩═╝╚═╝─╚╝─╚═══╩═══╝
+#
+# Configuration:
+
+format: "&b[STAFFCHAT] &7%player%&8: &f%message%"
+messages:
+  insufficient_permissions: "&cYou don't have the permission to perform this command."
+  invalid_arguments: "&cInvalid use of command."
+  sc_enabled: "&bStaffChat &7is now &aenabled&7."
+  sc_disabled: "&bStaffChat &7is now &cdisabled&7."
+  no_console: "&cYou can't execute this command by console."
+  plugin_reloaded: "&aOxySC was reloaded."

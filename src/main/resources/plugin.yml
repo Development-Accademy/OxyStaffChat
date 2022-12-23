@@ -1,0 +1,14 @@
+name: OxyStaffChat
+version: '${version}'
+main: it.devaccademy.oxysc.SCBukkit
+author: Axiid
+commands:
+  oxystaffchat:
+    description: Main command
+    aliases:
+      - oxysc
+
+  staffchat:
+    description: Staff chat command
+    aliases:
+      - sc
